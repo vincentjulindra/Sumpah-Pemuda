@@ -7,4 +7,4 @@ Mata Kuliah Pemrograman Mobile
 ## Berikut Screenshots Aplikasi Sumpah Pemuda yang saya buat:
 
 ## Halaman Utama
-<img src = "screenshots/home.jpg"/>
+<img src = "screenshots/home.jpg" height="42"/>
