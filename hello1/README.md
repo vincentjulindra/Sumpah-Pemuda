@@ -5,3 +5,6 @@ Program Studi Teknik Informatika 2017 <br>
 Mata Kuliah Pemrograman Mobile 
 
 ## Berikut Screenshots Aplikasi Sumpah Pemuda yang saya buat:
+
+## Halaman Utama
+<img src = "screenshots/home.jpg"/>
