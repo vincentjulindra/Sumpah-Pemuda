@@ -16,4 +16,4 @@ Mata Kuliah Pemrograman Mobile
 <img scr = "screenshots/daftartokoh.jpg" height="500"/>
 
 ### Halam Detail Tokoh Sumpah Pemuda
-<img src = "screenshots/detailtokoh.jpg" height="500"/>
+<img src = "screenshots/detail.tokoh.jpg" height="500"/>
