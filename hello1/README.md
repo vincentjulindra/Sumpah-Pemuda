@@ -13,7 +13,7 @@ Mata Kuliah Pemrograman Mobile
 <img src = "screenshots/halaman1.jpg" height="500"/>
 
 ### Halaman Daftar Tokoh Sumpah Pemuda
-<img scr = "screenshots/daftartokoh.jpg" height="500"/>
+<img src = "screenshots/daftartokoh.jpg" height="500"/>
 
 ### Halam Detail Tokoh Sumpah Pemuda
 <img src = "screenshots/detail.tokoh.jpg" height="500"/>
