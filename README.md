@@ -1,1 +1,0 @@
-# Sumpah-Pemuda
